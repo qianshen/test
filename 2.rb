@@ -6,7 +6,7 @@ puts ("puts ruby")
 p 100
 p "100"
 p "\\\"\n"
-puts "钱申"
+puts "钱申2s"
 puts 10
 puts "10"
 puts "end\\\'\"\n"
